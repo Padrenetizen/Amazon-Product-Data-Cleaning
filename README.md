@@ -1,1 +1,2 @@
-# Amazon-Product-Data-Cleaning
+# Amazon-Product-Data-Cleaning-Project
+This dataset contained a total of 22 columns and 65 rows. It also contained a lot of blank rows, and some of the columns were in the wrong data format. The formulas Value & Substitute were used to fix those columns that had their data in the wrong format. Blank rows and useless columns were deleted, and the Proper formula was used to fix the letter size of the String / Character columns.
